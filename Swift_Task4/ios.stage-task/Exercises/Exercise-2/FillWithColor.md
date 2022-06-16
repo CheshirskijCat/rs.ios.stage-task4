@@ -1,6 +1,6 @@
 # Fill With Color
 
-An image is represented by an `m x n` integer grid image where `image[i][j]` represents the pixel value of the image. 
+An image is represented by an `m x n` integer grid image where `image[i][j]` represents the pixel value of the image.
 
 In turn, three integers are given (`row, column, newColor`). It is necessary to fill the image with color starting from the pixel image - `image[row][column]`.
 

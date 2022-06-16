@@ -1,5 +1,5 @@
 import Foundation
 
-struct User: Equatable {
+struct User: Hashable{
     let id: UUID
 }
